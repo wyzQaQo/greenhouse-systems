@@ -1,3 +1,4 @@
+export const dynamicParams = false;
 "use client";
 import Link from "next/link";
 import { stats } from "@/data/navigation";
